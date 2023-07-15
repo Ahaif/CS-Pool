@@ -1,7 +1,7 @@
 # CS-Pool
 - Cyber-Security boot-camp
-    - To validate this piscine you must do the following projects:
-        • arachnida - Web
-        • ft_otp - OTP
-        • ft_onion - Web
-        • Reverse me - Rev
+    - To validate this Pool you must do the following projects:
+        - arachnida - Web : DAY01
+        - ft_otp - OTP : DAY02
+        - ft_onion - Web : DAY03
+        - Reverse me - Rev : DAY04
