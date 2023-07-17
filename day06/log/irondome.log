@@ -1,5 +1,11 @@
-2023-07-16 22:06:33,198 INFO: Exiting IronDome
-2023-07-16 22:07:33,815 INFO: Exiting IronDome
-2023-07-16 22:10:32,252 INFO: Exiting IronDome
-2023-07-16 22:11:20,588 INFO: Exiting IronDome
-2023-07-16 22:11:28,863 INFO: Exiting IronDome
+2023-07-17 18:37:52,066 INFO: monitoring file changes based on their hashes : test
+2023-07-17 18:37:52,066 INFO: File test/test.txt has been added
+2023-07-17 18:37:52,066 INFO: Monitoring critical area Cryptography part : test
+2023-07-17 18:37:54,068 INFO: monitoring file changes based on their hashes : test
+2023-07-17 18:37:54,069 INFO: Monitoring critical area Cryptography part : test
+2023-07-17 18:37:56,069 INFO: monitoring file changes based on their hashes : test
+2023-07-17 18:37:56,070 INFO: Monitoring critical area Cryptography part : test
+2023-07-17 18:37:58,072 INFO: monitoring file changes based on their hashes : test
+2023-07-17 18:37:58,072 WARNING: Potential disk read abuse detected for file: test/test.txt
+2023-07-17 18:37:58,073 INFO: Monitoring critical area Cryptography part : test
+2023-07-17 18:37:59,917 INFO: Exiting IronDome
