@@ -39,7 +39,7 @@ def monitor_critical_area(path, initial_hashes):
         for file in files:
             if file == "test.txt":
                 full_file_path = os.path.join(root, file)  # Join the root and file to get the full path
-                
+
                 read_count = initial_hashes.get(full_file_path, 0)
                 read_count += 1
                 initial_hashes[full_file_path] = read_count
@@ -60,7 +60,7 @@ def monitor_critical_area(path, initial_hashes):
     logging.info("Monitoring critical area Cryptography part : %s", path)        
 
 
-
+initial_hashes = {}
 
 
 def main():
@@ -68,7 +68,7 @@ def main():
     log_file = "/home/abdel/Documents/CS-Pool/day06/log/irondome.log"
     set_up(log_file)
 
-    initial_hashes = {}
+    
     paths_to_monitor = []
 
     if len(sys.argv) > 1:
