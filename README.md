@@ -1,5 +1,4 @@
-# CS-Pool
-- Cyber-Security Projects
+# Cyber-Security Projects
         - arachnida - Web : DAY01
         - ft_otp - OTP : DAY02
         - ft_onion - Web : DAY03
